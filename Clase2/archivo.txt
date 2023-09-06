@@ -1,0 +1,6 @@
+alumno
+2000-01-01
+prueba
+alumno2
+2002-02-01
+prueba2
